@@ -1,4 +1,4 @@
-"# DataAnalysis-Lectur
+"# DataAnalysis-Lecture
 
 ## AI기반 데이터 전략 전문가 양성 과정
 
